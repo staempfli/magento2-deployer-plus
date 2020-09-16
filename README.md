@@ -1,5 +1,7 @@
 # Magento 2 Deployer Plus
 
+[![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](http://www.repostatus.org/badges/latest/abandoned.svg)](http://www.repostatus.org/#abandoned)
+
 * Reliable fully-automated deployments tool for Magento 2.
 * Zero downtime deployments on Magento versions >= 2.2
 * Automating your deployments is as easy as defining the servers where you want to deploy to.
